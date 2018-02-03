@@ -586,7 +586,7 @@ div#skills {
     animation-name: height;
     left: 0;
     right: 0;
-    bottom: 100;
+    bottom: 0;
     color: #fff;
 }
 
@@ -614,6 +614,7 @@ div#skills {
 
 span.value {
     transform: rotate(-90deg);
+	position: absolute;
     display: inline-block;
     margin: 6em 0;
     color: #fff;
