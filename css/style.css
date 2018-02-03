@@ -526,7 +526,7 @@ div#skills {
 }
 
 .skill-bar-percent {
-    position: absolute;
+    position: relative;
     right: 10px;
     top: 0;
     font-size: 11px;
@@ -570,7 +570,7 @@ div#skills {
     top: -43px;
     left: 24px;
     width: 1px;
-    height: 93px;
+    height: 138px;
     position: absolute;
 }
 
