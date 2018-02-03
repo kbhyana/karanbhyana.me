@@ -1,9 +1,3 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
 
 body {
     margin: 0;
@@ -54,7 +48,7 @@ body a:focus {
 /*-- banner --*/
 
 .banner {
-    background: url(../images/bg2.jpg)no-repeat center 0px fixed;
+    background: url(https://source.unsplash.com/1680x1144/?Blurrrr)no-repeat center 0px fixed;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -862,7 +856,7 @@ div#services {
 /*-- Contact --*/
 
 .contact-main-w3ls {
-    background: url(../images/contact.jpg) no-repeat center;
+    background: url(https://source.unsplash.com/1680x1144/?top-100-most-downloaded-photos-of-2017,It's business time) no-repeat center;
     background-size: cover;
 	-webkit-background-size: cover;
     -o-background-size: cover;
