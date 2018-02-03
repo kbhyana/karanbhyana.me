@@ -570,7 +570,7 @@ div#skills {
     top: -43px;
     left: 24px;
     width: 1px;
-    height: 138px;
+    height: 168px;
     position: absolute;
 }
 
@@ -581,7 +581,7 @@ div#skills {
 }
 
 .vertical-skills li span.skill {
-    position: absolute;
+    position: relative;
     animation-duration: 5s;
     animation-name: height;
     left: 0;
